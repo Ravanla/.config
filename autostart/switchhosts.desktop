@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+NoDisplay=true
+Terminal=false
+Name=switchhosts
+Exec=/home/ravanla/Downloads/SwitchHosts_linux_4.0.2.6057.AppImage
